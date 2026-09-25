@@ -30,48 +30,9 @@ I'm a **full-stack software engineer** with deep experience across the **JavaScr
  
 ## 🧰 Tech Stack
  
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h4>Languages</h4>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,java&theme=dark" /><br/>
-      <sub>JavaScript · TypeScript · Python · Java</sub>
-    </td>
-    <td align="center" width="33%">
-      <h4>Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,vite&theme=dark" /><br/>
-      <sub>React · Next.js · HTML/CSS · Vite · Accessibility</sub>
-    </td>
-    <td align="center" width="33%">
-      <h4>Backend & Data</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,firebase&theme=dark" /><br/>
-      <img src="https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=neon&logoColor=00E599" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /><br/>
-      <sub>Node.js · Express · PostgreSQL · Knex.js · Neon · Firebase · Vercel</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <h4>Tools & Platforms</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" /><br/>
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-      <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-      <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" /><br/>
-      <sub>Git · GitHub · VS Code · REST APIs · Cloudinary · Agile/Scrum · Ubuntu · Windows · macOS · Linux Mint</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <h4>AI-Assisted Development</h4>
-      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-      <img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-      <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" /><br/>
-      <sub>Claude · Claude Code · Cursor · LLM API Integration</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://profile-assets.vercel.app/tech-stack.png" width="100%" alt="Tech stack. Languages: JavaScript, TypeScript, Python, Java. Frontend: React, Next.js, HTML, CSS, Vite, Accessibility. Backend and data: Node.js, Express, PostgreSQL, Knex.js, Neon, Firebase, Vercel. Tools: Git, GitHub, VS Code, REST APIs, Cloudinary, Agile, Ubuntu, Windows, macOS, Linux Mint. AI-assisted development: Claude, Claude Code, Cursor, LLM API integration." />
+</p>
 
 ---
  
@@ -151,5 +112,5 @@ If you want to talk code, prep for technical interviews, or get guidance on your
 ---
  
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:355E3B&height=120&section=footer" />
+  <img src="https://profile-assets.vercel.app/footer.svg" />
 </div>
