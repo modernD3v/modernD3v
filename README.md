@@ -155,15 +155,18 @@ Before tech, I spent a decade in **music education and school leadership** — w
 ---
  
 <div align="center">
-💬 Let's Connect
- 
-I'm looking for my next opportunity — whether that's building products, teaching engineers, or bridging the gap between the two.
- 
-**If you value clear communication, strong fundamentals, and someone who makes teams better — let's talk.**
- 
+
+💬 Let's Talk Tech
+
+I've spent years helping people break into software engineering and level up once they're in.
+If you want to talk code, prep for technical interviews, or get guidance on your path in tech, my door is open.
+
+**Mock interviews · Career guidance · Code reviews · Talking shop**
+
 <a href="https://www.linkedin.com/in/gonzalo-romero-931841230">
-  <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reach_Out-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 </div>
 
 ---
