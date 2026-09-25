@@ -47,8 +47,8 @@ I'm a **full-stack software engineer** with deep experience across the **JavaScr
           <img src="https://img.shields.io/badge/Live_Site-355E3B?style=for-the-badge&logo=googlechrome&logoColor=white" />
         </a>
       </p>
-      <p align="center">Self-paced, interactive JavaScript course with <strong>intelligent error feedback</strong> — when you make a mistake, it explains <em>why</em> your code broke, not just that it's wrong. 44 lessons, 56 exercises, and 500+ students who've gone on to work at Bloomberg, Microsoft, and JPMorgan.</p>
-      <p align="center"><strong>JavaScript · React · Node.js · Express · PostgreSQL</strong></p>
+      <p align="center">Self-paced, interactive JavaScript course with <strong>misconception-aware feedback</strong>. When your wrong answer matches a common mistake, it explains <em>why</em> your code broke, not just that it's wrong.</p>
+      <p align="center"><strong>JavaScript · Next.js · PostgreSQL (Neon) · Drizzle · Vercel</strong></p>
     </td>
   </tr>
   <tr>
@@ -87,6 +87,8 @@ Over 4 years at [The Marcy Lab School](https://www.marcylabschool.org/), I desig
 - 🎤 **Led daily lectures and code-alongs** for cohorts of career-changing learners
 - 🤝 **Mentored engineers** through Agile workflows, code reviews, and production deployments
 - 🧪 **Built assessment frameworks** that measure real engineering competency, not just trivia
+- 🎓 **Taught 500+ students**, many now working at companies like Asana, Bloomberg, Datadog, FanDuel, and Salesforce
+
 Before tech, I spent a decade in **music education and school leadership** — where I learned that great teaching (and great engineering) starts with listening.
  
 > *"A master at absorbing complex information and distilling it into clear, engaging lessons — bringing both clarity and enjoyment to every lecture."*
