@@ -61,8 +61,7 @@ I'm a **full-stack software engineer** with deep experience across the **JavaScr
       </p>
       <p>Teaches the "Plain English → Code → Verify" methodology — articulate your solution before you write a line of code.</p>
       <p><strong>Python · Problem Solving · Edge Cases</strong></p>
-    </tr>
-  <tr>
+    </td>
     <td width="50%">
       <h3 align="center">🔁 Array HOF Cheat Sheet</h3>
       <p align="center">
@@ -112,5 +111,5 @@ If you want to talk code, prep for technical interviews, or get guidance on your
 ---
  
 <div align="center">
-  <img src="https://profile-assets.vercel.app/footer.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:355E3B&height=120&section=footer" />
 </div>
