@@ -155,7 +155,7 @@ Before tech, I spent a decade in **music education and school leadership** — w
 ---
  
 <div align="center">
-## 💬 Let's Connect
+💬 Let's Connect
  
 I'm looking for my next opportunity — whether that's building products, teaching engineers, or bridging the gap between the two.
  
