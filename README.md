@@ -100,18 +100,7 @@ I'm a **full-stack software engineer** with deep experience across the **JavaScr
       </p>
       <p>Teaches the "Plain English → Code → Verify" methodology — articulate your solution before you write a line of code.</p>
       <p><strong>Python · Problem Solving · Edge Cases</strong></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📝 Pseudocode Cheat Sheet</h3>
-      <p align="center">
-        <a href="https://github.com/The-Marcy-Lab-School/Marcy-psudocode-cheet-sheet">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>Side-by-side reference mapping pseudocode to JavaScript and Python across 12 core programming concepts.</p>
-      <p><strong>JavaScript · Python · Pseudocode</strong></p>
-    </td>
-  </tr>
+    </tr>
   <tr>
     <td width="50%">
       <h3 align="center">🔁 Array HOF Cheat Sheet</h3>
@@ -123,17 +112,7 @@ I'm a **full-stack software engineer** with deep experience across the **JavaScr
       <p>Deep-dive reference for forEach, filter, map, find, and reduce — with a decision tree, chaining examples, and common pitfalls.</p>
       <p><strong>JavaScript · Higher-Order Functions</strong></p>
     </td>
-    <td width="50%">
-      <h3 align="center">📄 README Templates</h3>
-      <p align="center">
-        <a href="https://github.com/The-Marcy-Lab-School/readme-templates">
-          <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p>Reusable GitHub profile and project README templates — built to help developers present their work professionally.</p>
-      <p><strong>Markdown · GitHub · Developer Branding</strong></p>
-    </td>
-  </tr>
+   </tr>
 </table>
 
 ---
