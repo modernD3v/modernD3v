@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:355E3B,100:1a1a2e&height=200&section=header&text=Gonzalo%20Romero&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Educator%20%7C%20Builder&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://profile-assets.vercel.app/header.svg" alt="Gonzalo Romero, Software Engineer, Educator, Builder" width="100%" />
 </div>
 <p align="center">
   <a href="https://www.linkedin.com/in/gonzalo-romero-931841230">
@@ -13,7 +13,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=355E3B&center=true&vCenter=true&width=700&lines=15%2B+years+teaching+%E2%86%92+writing+code+that+teaches+itself;Full-stack+engineer+who+explains+the+%22why%22;Brooklyn+%F0%9F%8C%89+%C2%B7+Puebla+%F0%9F%87%B2%F0%9F%87%BD+%C2%B7+Building+everywhere" />
+  <img src="https://profile-assets.vercel.app/typing.svg" alt="15+ years teaching, writing code that teaches itself. Full-stack engineer who explains the why. Brooklyn, Puebla, building everywhere." />
 </p>
 
 ---
